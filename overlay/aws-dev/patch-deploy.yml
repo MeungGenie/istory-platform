@@ -12,4 +12,4 @@ spec:
     spec:
       containers:
         - name: istory
-          image: dangtong76/istory:9687fff5789673d9450f3be7e6b340993b36249c # 변경필요
+          image: dangtong76/istory:45d9800aee738ce5c7fa9c209a97439fab711b4b # 변경필요
